@@ -25,3 +25,6 @@ elif operation == "/":
     print("Result = ", num1 / num2)
 else:
     print("I'm Sorry for my mistake")
+
+for i in range(10):
+    print("hello world")
